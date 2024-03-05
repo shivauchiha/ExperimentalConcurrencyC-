@@ -1,0 +1,10 @@
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/rebuild_cache.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch3.1.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch2.1.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch2.2.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch1.5.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch1.3.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch1.4.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch1.2.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/edit_cache.dir
+/home/shiva_uchiha/Documents/ConcurrencyC++/build/CMakeFiles/ch1.1.dir

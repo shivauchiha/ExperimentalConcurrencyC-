@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "concurrency",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1.1-Debug-8efcb134c41bf046aa1c.json",
+					"name" : "ch1.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1.2-Debug-eae38b157092852d5eda.json",
+					"name" : "ch1.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1.3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1.3-Debug-1569f803fb690b27f683.json",
+					"name" : "ch1.3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1.4-Debug-b6bce6f6a1483e886344.json",
+					"name" : "ch1.4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch1.5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch1.5-Debug-bd8e9735d85484c280af.json",
+					"name" : "ch1.5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch2.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch2.1-Debug-0690cdc0f4e536779b22.json",
+					"name" : "ch2.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch2.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch2.2-Debug-b148173247f6adbc47d4.json",
+					"name" : "ch2.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ch3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ch3.1-Debug-14201a9f2946a0bef75f.json",
+					"name" : "ch3.1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+		"source" : "/home/shiva_uchiha/Documents/ConcurrencyC++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

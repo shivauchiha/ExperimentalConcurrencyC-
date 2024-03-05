@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch3.1.dir/Chapter3/exp1.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter3/exp1.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter3/exp1.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch2.1.dir/Chapter2/exp1.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter2/exp1.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter2/exp1.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch2.2.dir/Chapter2/exp2.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter2/exp2.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter2/exp2.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch1.5.dir/Chapter1/exp5.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp5.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp5.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch1.3.dir/Chapter1/exp3.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp3.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp3.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch1.4.dir/Chapter1/exp4.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp4.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp4.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch1.2.dir/Chapter1/exp2.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp2.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp2.cpp"
+},
+
+{
+  "directory": "/home/shiva_uchiha/Documents/ConcurrencyC++/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -pthread -o CMakeFiles/ch1.1.dir/Chapter1/exp1.cpp.o -c /home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp1.cpp",
+  "file": "/home/shiva_uchiha/Documents/ConcurrencyC++/Chapter1/exp1.cpp"
+}
+]
